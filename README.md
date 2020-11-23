@@ -4,6 +4,7 @@ This repository contains my solutions for the projects I created during the Udac
 I participated in the course between Q2/2020 and Q3/2020.<br>
 
 Projects: <br>
+
 2. Predicting Bike-Sharing Patterns
 - In this project, I built and train a Neural Network from scratch to predict the number of bikeshare users on a given day. 
 
